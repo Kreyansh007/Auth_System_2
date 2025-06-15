@@ -9,10 +9,10 @@
         }
     ]
 }
- {
-            "username": "apurba",
-            "password": "$2a$12$Y8OZXyB5KGoJmzn1oGjNVOcBuPergw4ZwbGkgAcjimVElBlcxSj3K",
+{
+            "username": "12345",
+            "password": "$2a$12$S2NLVfXIRO6NfRotOBLAuesLJO0/ouoKWf1Kyib3O2O2jkMtwpQ.6",
             "subscription": "aimkillapk",
-            "expiry": "2025-06-17",
+            "expiry": "2025-06-017",
             "device_id": ""
         }
