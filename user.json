@@ -1,0 +1,11 @@
+{
+  "admin": [
+    {
+      "username": "kreyansh",
+      "password": "$2a$12$UmcHNxui.jjnlgMWHWszheKAwefdCX4psVwAyIzzjc/ZMe5PGWeDO",
+      "subscription": "owner",
+      "expiry": "2030-01-01",
+      "device_id": ""
+    }
+  ]
+}
