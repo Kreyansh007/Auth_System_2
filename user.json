@@ -9,3 +9,14 @@
         }
     ]
 }
+{
+    "admin": [
+        {
+            "username": "1",
+            "password": "$2a$12$6x128rIcveg3zX/91DS0T.ith4My/gwF0k7d2o9ZA0fVebNd31u3u",
+            "subscription": "aimkillapk",
+            "expiry": "2030-01-01",
+            "device_id": ""
+        }
+    ]
+}
