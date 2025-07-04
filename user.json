@@ -14,5 +14,12 @@
             "expiry": "2030-01-01",
             "device_id": "b79cb2bacc21a79a"
         }
+         {
+            "username": "2",
+            "password": "$2a$12$q2DRlrNU.1MsxY2b/5XKR.1Fc5QpVZ.lnaFQGEZaZGPvJoAq7SlQa",
+            "subscription": "aimkillapk",
+            "expiry": "2030-01-01",
+            "device_id": ""
+        }
     ]
 }
