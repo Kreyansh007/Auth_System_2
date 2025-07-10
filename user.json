@@ -21,12 +21,12 @@
             "expiry": "2030-01-01",
             "device_id": "db10cc8c8a3cef0f"
         },
-          {
+        {
             "username": "123",
-            "password": "$2a$12$HeJjIPDOrLKJLDqimH5.7.o5sOUgQfohoBxwO9Hf6eyMV/jat7umC",
+            "password": "$2a$12$HeJjIPDOrLKJLDqimH5.7.o5sOUgQfohoBxwO9Hf6eyMV\/jat7umC",
             "subscription": "aimkillapk",
             "expiry": "2030-01-01",
-            "device_id": ""
+            "device_id": "fb551a8056a26b2c"
         }
     ]
 }
