@@ -1,32 +1,33 @@
 {
-    "admin": [
-        {
-            "username": "12",
-            "password": "$2a$12$mzbVIRcOoMa1.DsMOHChceMVv7z6kx8lpCrLJ5z96g4sSQGKLe.1u",
-            "subscription": "aimkillapk",
-            "expiry": "2030-01-01",
-            "device_id": ""
-        },
-        {
-            "username": "1",
-            "password": "$2a$12$0tktVFJ3057Oat3CzSTTXuAZKT5RT9xWcmx86bgf68H4Q50DFxaJy",
-            "subscription": "aimkillapk",
-            "expiry": "2030-01-01",
-            "device_id": ""
-        },
-        {
-            "username": "2",
-            "password": "$2a$12$q2DRlrNU.1MsxY2b\/5XKR.1Fc5QpVZ.lnaFQGEZaZGPvJoAq7SlQa",
-            "subscription": "aimkillapk",
-            "expiry": "2030-01-01",
-            "device_id": ""
-        },
-        {
-            "username": "123",
-            "password": "$2a$12$HeJjIPDOrLKJLDqimH5.7.o5sOUgQfohoBxwO9Hf6eyMV\/jat7umC",
-            "subscription": "aimkillapk",
-            "expiry": "2030-01-01",
-            "device_id": "fb551a8056a26b2c"
-        }
-    ]
+  "version": "1",
+  "admin": [
+    {
+      "username": "12",
+      "password": "$2a$12$mzbVIRcOoMa1.DsMOHChceMVv7z6kx8lpCrLJ5z96g4sSQGKLe.1u",
+      "subscription": "aimkillapk",
+      "expiry": "2030-01-01",
+      "device_id": ""
+    },
+    {
+      "username": "1",
+      "password": "$2a$12$0tktVFJ3057Oat3CzSTTXuAZKT5RT9xWcmx86bgf68H4Q50DFxaJy",
+      "subscription": "aimkillapk",
+      "expiry": "2030-01-01",
+      "device_id": ""
+    },
+    {
+      "username": "2",
+      "password": "$2a$12$q2DRlrNU.1MsxY2b/5XKR.1Fc5QpVZ.lnaFQGEZaZGPvJoAq7SlQa",
+      "subscription": "aimkillapk",
+      "expiry": "2030-01-01",
+      "device_id": ""
+    },
+    {
+      "username": "123",
+      "password": "$2a$12$HeJjIPDOrLKJLDqimH5.7.o5sOUgQfohoBxwO9Hf6eyMV/jat7umC",
+      "subscription": "aimkillapk",
+      "expiry": "2030-01-01",
+      "device_id": "fb551a8056a26b2c"
+    }
+  ]
 }
